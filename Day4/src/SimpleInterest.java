@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import java.security.Principal;
 import java.sql.Time;
 import java.util.Scanner;
@@ -27,12 +27,3 @@ public class SimpleInterest {
 
     }
 
-=======
-public class SimpleInterest {
-
-    public static void main(String[]args){
-
-
-    }
-}
->>>>>>> c9a4c5631aa465fc8da24d218a7ba02a30b5fd42
