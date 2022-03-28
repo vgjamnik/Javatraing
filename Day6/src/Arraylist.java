@@ -13,6 +13,7 @@ public class Arraylist{
             // get the element from the arraylist
             String str = animals.get(1);
             System.out.print("Element at index 1: " + str);
+                
         }
     }
 
